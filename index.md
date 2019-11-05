@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## 普及消防知识
 
-You can use the [editor on GitHub](https://github.com/acome/xiaofang119.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+武汉兴益华项目11月4日简报：天气：多云  10-23度；
+1、 项目安全：
+（1）1#库土方清运时有专人洒水抑制扬尘。
+（2）现场道路有专人清扫洒落尘土。
+（3）小龙门吊吊钩防脱扣已安装完成。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2、 项目质量：
+（1）2#库清水柱砼养护。
+（2）2层平台承台钢筋符合图纸要求。
 
-### Markdown
+3、 项目进度：
+（1）1#库短柱周边土方分层回填及夯实10个；
+（2）1#库、二层平台桩头切割及桩芯砼浇筑36根；
+（3）1#库承台垫层模板安装及砼浇筑4个；
+（4）1#库短柱模板拆除及材料清理完成4个；
+（5）2#库一层柱砼浇筑；
+（6）2#库预制梁吊装；（累计完成 280 根）；
+（7）2#库楼承板铺设施工；（累计完成3560m²）；
+（8）2#库室外成品楼梯安装及加固已完成；
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/acome/xiaofang119.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+4、 项目人员：
+管理人员：应到22人，实到22人；
+工人：127人到场。其中：木工班18人；钢筋班组：30人；泥工班组：9人；广告安装：2人；吊装/楼承板：18人；架子工：7人；预制张拉：28人。水电：5人。机械：5人；
+消防：2人；钢构：3人；
+5、 报建进度 
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
